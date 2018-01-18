@@ -8,4 +8,4 @@
     echo "hello world!!";
     echo "第一次提交代码到GitHub";
     echo "</br>";
-    echo "第二次提交看看";
+    echo "第二次提交";
